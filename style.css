@@ -1,0 +1,46 @@
+h1{
+	color: cyan;
+	padding: 10px;
+	font-family: monospace;
+	font-size: 100px;
+	text-align: center;
+	text-decoration: underline;
+}
+.space{
+	color:orange;
+	font-size: 45px;
+	font-weight: bold;
+	font-family: Algerian
+}
+body{
+	background-color: grey;
+	border: dashed 28px yellow;
+}
+.first{
+	float: left;
+	border: solid 1px black;
+	border-radius: 50%
+}
+.big{
+	float: right;
+	border: solid 1px black;
+	border-radius:50%
+}
+.hi{
+	color:blue;
+	font-size:32px;
+	font-weight: bold;
+	font-family:AR Darling;
+}
+.dinosaur{
+	float:left;
+	border: solid 1px black;
+	border-radius:60%
+}
+.Rajasaurus{
+	color:white;
+	font-size:32px;
+	font-weight: bold;
+	font-family:Didot;
+	text-align:left
+}
