@@ -10,21 +10,21 @@ h1{
 	color:orange;
 	font-size: 45px;
 	font-weight: bold;
-	font-family: Algerian
+	font-family: Algerian;
 }
 body{
 	background-color: grey;
 	border: dashed 28px yellow;
 }
 .first{
-	float: left;
-	border: solid 1px black;
-	border-radius: 50%
-}
-.big{
 	float: right;
 	border: solid 1px black;
-	border-radius:50%
+	border-radius: 40%
+}
+.big{
+	float: leftt;
+	border: solid 1px black;
+	border-radius:40%
 }
 .hi{
 	color:blue;
@@ -33,14 +33,15 @@ body{
 	font-family:AR Darling;
 }
 .dinosaur{
-	float:left;
+	float:right;
 	border: solid 1px black;
-	border-radius:60%
+	border-radius:40%;
+	
 }
 .Rajasaurus{
 	color:white;
 	font-size:32px;
 	font-weight: bold;
 	font-family:Didot;
-	text-align:left
+	
 }
