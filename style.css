@@ -19,7 +19,8 @@ body{
 .first{
 	float: left;
 	border: solid 1px black;
-	border-radius: 40%
+	border-radius: 40%;
+		
 }
 .big{
 	float: right;
