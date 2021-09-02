@@ -17,14 +17,14 @@ body{
 	border: dashed 28px yellow;
 }
 .first{
-	float: right;
+	float: left;
 	border: solid 1px black;
 	border-radius: 40%
 }
 .big{
-	float: leftt;
+	float: right;
 	border: solid 1px black;
-	border-radius:40%
+	border-radius:50%
 }
 .hi{
 	color:blue;
@@ -33,9 +33,9 @@ body{
 	font-family:AR Darling;
 }
 .dinosaur{
-	float:right;
+	float:left;
 	border: solid 1px black;
-	border-radius:40%;
+	border-radius:50%;
 	
 }
 .Rajasaurus{
